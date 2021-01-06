@@ -37,18 +37,8 @@ Explain how to run the automated tests for this system:
 ```
 Hit Ctrl + F5
 ```
-- A web browser will appear.
-
-![alt](https://github.com/jackyhuynh/TeamActivityTracker/blob/master/src/picture/Index.PNG)
-
-- Users can fill in any thing to test. User can also copy the address and open as many test as possible. The result sync through all the clients.
-
-![alt](https://github.com/jackyhuynh/TeamActivityTracker/blob/master/src/picture/Edit.PNG)
-
+- Calculator will appear
 - Applications execute without any issues
-- backend's API 
-
-![alt](https://github.com/jackyhuynh/TeamActivityTracker/blob/master/src/picture/API.PNG)
 
 ## Deployment
 
@@ -71,12 +61,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Truc Huynh** - *Initial work* - [TrucDev](https://github.com/jackyhuynh)
 
-
 ## References
 my README.md format was retrieved from
 * **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-* **Rick Anderson, Kirk Larkin, and Mike Wasson** - *Initial work* -[Tutorial: Create a web API with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-3.1&tabs=visual-studio)
 
 ## License
 
