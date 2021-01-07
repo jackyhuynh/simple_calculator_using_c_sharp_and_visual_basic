@@ -1,7 +1,7 @@
 # Simple Calculator
 
 ## Introduction
-The simple calculator tracker simply develop a window app calculator
+The simple calculator is a window app calculator
 
 ## Technology
 - C# Programming
